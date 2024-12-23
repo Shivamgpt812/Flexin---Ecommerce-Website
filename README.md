@@ -5,17 +5,17 @@ FLEXIN is the ultimate e-commerce front-end solution based on Bootstrap 3. Along
 <!-- demo -->
 ## Example Site
 
-| [![](screenshots/home.jpg)](https://demo.Shivam.com/FLEXIN/) | [![](screenshots/about.jpg)](https://demo.Shivam.com/FLEXIN/about.html) | [![](screenshots/pricing.jpg)](https://demo.Shivam.com/FLEXIN/pricing.html) | [![](screenshots/contact.jpg)](https://demo.Shivam.com/FLEXIN/contact.html) |
+| [![](screenshots/home.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/about.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/pricing.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/contact.jpg)](https://flexin-ecommerce-website.netlify.app/) |
 |:---:|:---:|:---:|:---:|
 | **Home**  | **About**  | **Pricing** | **Contact** |
-| [![](screenshots/shop.jpg)](https://demo.Shivam.com/FLEXIN/shop.html) | [![](screenshots/single-product.jpg)](https://demo.Shivam.com/FLEXIN/product-single.html) | [![](screenshots/cart.jpg)](https://demo.Shivam.com/FLEXIN/cart.html) | [![](screenshots/checkout.jpg)](https://demo.Shivam.com/FLEXIN/checkout.html) |
+| [![](screenshots/shop.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/single-product.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/cart.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/checkout.jpg)](https://flexin-ecommerce-website.netlify.app/) |
 | **Shop**  | **Single Product**  | **Cart** | **Checkout** |
-| [![](screenshots/dashboard.jpg)](https://demo.Shivam.com/FLEXIN/dashboard.html) | [![](screenshots/orders.jpg)](https://demo.Shivam.com/FLEXIN/order.html) | [![](screenshots/payment.jpg)](https://demo.Shivam.com/FLEXIN/address.html) | [![](screenshots/faq.jpg)](https://demo.Shivam.com/Shivam/FLEXIN/faq.html) |
+| [![](screenshots/dashboard.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/orders.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/payment.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/faq.jpg)](https://flexin-ecommerce-website.netlify.app/) |
 | **Dashboard**  | **Orders**  | **Payment** | **FAQ** |
-| [![](screenshots/blogrs.jpg)](https://demo.Shivam.com/FLEXIN/blog-right-sidebar.html) | [![](screenshots/blogls.jpg)](https://demo.Shivam.com/FLEXIN/blog-left-sidebar.html) | [![](screenshots/blogg.jpg)](https://demo.Shivam.com/FLEXIN/blog-grid.html) | [![](screenshots/blogd.jpg)](https://demo.Shivam.com/FLEXIN/blog-full-width.html) |
+| [![](screenshots/blogrs.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/blogls.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/blogg.jpg)](https://flexin-ecommerce-website.netlify.app/) | [![](screenshots/blogd.jpg)](https://flexin-ecommerce-website.netlify.app/) |
 | **Blog Right Sidebar**  | **Blog Left Sidebar**  | **Blog Grid** | **Blog Full Width** |
 
-👉🏻[View Live Preview](https://demo.Shivam.com/FLEXIN/)
+👉🏻[View Live Preview](https://flexin-ecommerce-website.netlify.app/)
 
 <!-- resources -->
 ## Pages
@@ -54,7 +54,7 @@ FLEXIN is the ultimate e-commerce front-end solution based on Bootstrap 3. Along
 <!-- download -->
 ## Download And installation
 
-Download this template from [Github](https://github.com/Shivam/FLEXIN/archive/main.zip)
+Download this template from [Github](https://github.com/Shivamgpt812/Flexin---Ecommerce-Website)
 
 <!-- installation -->
 ### Basic Usages
@@ -120,7 +120,7 @@ If you have questions or need help integrating the product please [contact us](m
 <!-- licence -->
 ## License
 
-Copyright (c) 2024 - Present, Designed & Developed by [Shivam](https://Shivam.com)
+Copyright (c) 2024 - Present, Designed & Developed by [Shivam](https://main--verdant-strudel-fa46fb.netlify.app/)
 
 **Code License:** Released under the [MIT](https://github.com/Shivam/FLEXIN/blob/main/LICENSE) license.
 
